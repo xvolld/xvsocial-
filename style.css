@@ -1,3 +1,10 @@
+h1 {
+    font-family: 'CustomFont', sans-serif;
+    letter-spacing: 8px; /* این مقدار فاصله بین حروف را تعیین می‌کند */
+}
+h1 {
+    font-family: 'CustomFont', sans-serif;
+}
 :root {
   --background-color: #383838; /* رنگ تیره تر برای بک‌گراند */
   --text-color: #00ced1; /* رنگ اکوا برای متن */
